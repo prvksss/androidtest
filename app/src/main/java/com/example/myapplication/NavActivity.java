@@ -33,7 +33,7 @@ public class NavActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                        .setAction("Action eba", null).show();
             }
         });
         DrawerLayout drawer = binding.drawerLayout;
