@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="module">Module</string>
     <string name="desc">After seeing error message about termination, open android studio logs (i\'ve made a copy just in case and named it \"vulkan-1.dll\").</string>
+    <string name="module">Module</string>
 </resources>
