@@ -1,2 +1,2 @@
 # androidtest
-Empty app
+My first android app
